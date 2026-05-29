@@ -4,7 +4,7 @@ A machine learning project comparing different CNN (Convolutional Neural Network
 
 ## Project Overview
 
-This is a **programming assignment** for the DSC4213 (Neural Networks & Deep Learning) course at University of Plymouth, Semester 1, Year 4. The project implements transfer learning techniques to classify plant leaf diseases into three categories:
+The project implements transfer learning techniques to classify plant leaf diseases into three categories:
 - Algal Leaf
 - Brown Blight
 - White Spot
@@ -132,11 +132,6 @@ Detailed analysis and results are available in the accompanying PDF report.
 - Fine-tuning approach balances transfer learning benefits with task-specific adaptation
 - Stratified splitting ensures balanced class distribution in train/val sets
 - Best model weights are automatically saved during training
-
-## Author
-
-Created as a programming assignment for DSC4213: Neural Networks & Deep Learning  
-University of Plymouth, Semester 1, Year 4
 
 ---
 
